@@ -1,6 +1,6 @@
-// Script by Pepe
-// 𝙿𝙴𝙿𝙴 𝚂𝙸𝚁 | 𝙳𝙾𝙽'𝚃 𝙲𝙷𝙰𝙽𝙶𝙴 𝙲𝚁𝙴𝙳𝙸𝚃𝚂🙂
-// ©Pepe Bot 
+// Script by Ravana
+// Ravana Bot | 𝙳𝙾𝙽'𝚃 𝙲𝙷𝙰𝙽𝙶𝙴 𝙲𝚁𝙴𝙳𝙸𝚃𝚂🙂
+// ©Ravana Bot 
 const {
   WAConnection: _WAConnection,
   MessageType,
@@ -133,9 +133,9 @@ nopref = false
 numbernye = '0'
 autoketik = false;
 prefixStatus = true;
-targetpc = "917736622139"; 
-owner = "917736622139"; 
-fakeyoi = "Pepe Sir"; 
+targetpc = "94766816809"; 
+owner = "94766816809"; 
+fakeyoi = "Ravana Bot"; 
 HunterApi = "Ikyy69", 
 xchillds = 'XChillDs' 
 hardi = 'hardianto', 
@@ -144,7 +144,7 @@ zeksapi = "vallganz5",
 dapapi = "anakasu",
 ApiZeks = "https://api.zeks.xyz",
 zeksApikey = "Alphabott",
-nomorowner1 = "@917736622139"; 
+nomorowner1 = "@94766816809"; 
 fake = `𝗢𝘄𝗻𝗲𝗿 : ${fakeyoi}\n❑︎ 𝗣𝗿𝗲𝗳𝗶𝘅 :「 ${prefixStatus ? "Multi Prefix" : "No Prefix"} 」`;
 thumb = fs.readFileSync("./stik/thumb.jpeg"); 
 numbernye = "0"; 
@@ -343,7 +343,7 @@ const checkRegisteredUser = (sender) => {
       ? mek.participant
       : mek.key.remoteJid;
     const totalchat = await xeon.chats.all();
-    const ownerNumber = [`917736622139@s.whatsapp.net`]
+    const ownerNumber = [`94766816809@s.whatsapp.net`]
 	const senderNumber = sender.split("@")[0] 
     const m = simple.smsg(xeon, mek);
     const groupMetadata = isGroup ? await xeon.groupMetadata(from) : "";
@@ -368,12 +368,12 @@ const checkRegisteredUser = (sender) => {
     const pushname = mek.key.fromMe
       ? xeon.user.name
       : conts.notify || conts.vname || conts.name || "-";
-    const readmore = "͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏";
+͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏";
     if (prefix && command) cmdadd();
     const totalhit = JSON.parse(fs.readFileSync("./lib/totalcmd.json"))[0]
       .totalcmd;
 const daftar1 = `❑ Hi ${pushname} 🐦 ${ucapanWaktu} \n\n❑ Before Using the Bot Verify First 🙂`
-       const daftar2 = '```Click the button below to verify bro or type #verify\n𝙿𝙴𝙿𝙴 𝚂𝙸𝚁 😎```'
+       const daftar2 = '```Click the button below to verify bro or type #verify\nRavana Bot 😎```'
        const daftar3 = [
           {
             buttonId: `verify`,
@@ -445,7 +445,7 @@ const math = (teks) => {
            return Math.floor(teks)
        }
 /*const reply = (teks) => {
-			xeon.sendMessage(from, teks, text, { thumbnail: iye, sendEphemeral: true, quoted: mek, contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: `${jam} - ${week} ${weton} - ${date}`,body:"",previewType:"PHOTO",thumbnail:iye,sourceUrl:`https://wa.me/917736622139?text=hello`}}})
+			xeon.sendMessage(from, teks, text, { thumbnail: iye, sendEphemeral: true, quoted: mek, contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: `${jam} - ${week} ${weton} - ${date}`,body:"",previewType:"PHOTO",thumbnail:iye,sourceUrl:`https://wa.me/94766816809?text=hello`}}})
 		}*/
     const sendMess = (hehe, teks) => {
       xeon.sendMessage(hehe, teks, text);
@@ -475,7 +475,7 @@ const math = (teks) => {
           thumbnail: iye,
           surface: 200,
           message: iye,
-          orderTitle: "Pepe",
+          orderTitle: "Ravana",
           sellerJid: "0@s.whatsapp.net",
         },
       },
@@ -787,10 +787,10 @@ if (!itsMe && !isOwner)return
               jpegThumbnail: fs.readFileSync(`./stik/thumb.jpeg`), //Gambarnye
             },
             title: "FakeReply Bang", //Kasih namalu
-            description: "Pepe",
+            description: "Ravana",
             currencyCode: "USD",
             priceAmount1000: "2000",
-            retailerId: "𝙿𝙴𝙿𝙴 𝚂𝙸𝚁",
+            retailerId: "Ravana Bot",
             productImageCount: 1,
           },
           businessOwnerJid: `0@s.whatsapp.net`,
@@ -916,7 +916,7 @@ xeon.sendMessage(id, buttonMessages, MessageType.buttonsMessage, options)
       xeon.groupAdd(from, orangnya);
     };
         const grupinv = (teks) => {
-        	grup = xeon.prepareMessageFromContent(from, { "groupInviteMessage": { "groupJid": '6288213840883-1616169743@g.us', "inviteCode": 'https://chat.whatsapp.com/Dgt6JhzTvlmEor8Zz23fHx', "groupName": `Pepe Bot Ofc.`, "footerText": "*_𝙿𝙴𝙿𝙴 𝚂𝙸𝚁_*", "jpegThumbnail": iye, "caption": teks}}, {quoted:mek})
+        	grup = xeon.prepareMessageFromContent(from, { "groupInviteMessage": { "groupJid": '6288213840883-1616169743@g.us', "inviteCode": 'https://chat.whatsapp.com/Dgt6JhzTvlmEor8Zz23fHx', "groupName": `Ravana Bot Ofc.`, "footerText": "*_Ravana Bot_*", "jpegThumbnail": iye, "caption": teks}}, {quoted:mek})
             xeon.relayWAMessage(grup)
         }
 const fakeitem = (teks) => {
@@ -926,14 +926,14 @@ const fakeitem = (teks) => {
         	fromMe:false,
         participant:`0@s.whatsapp.net`, ...(from ? {
 remoteJid :"6289523258649-1604595598@g.us" }: {})
-                    },message:{"orderMessage":{"orderId":"174238614569481","thumbnail":fs.readFileSync(`./stik/thumb.jpeg`),"itemCount":10,"status":"INQUIRY","surface":"CATALOG","message":`𝙿𝙴𝙿𝙴 𝚂𝙸𝚁 😎`,"token":"AR6xBKbXZn0Xwmu76Ksyd7rnxI+Rx87HfinVlW4lwXa6JA=="}}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true})}
+                    },message:{"orderMessage":{"orderId":"174238614569481","thumbnail":fs.readFileSync(`./stik/thumb.jpeg`),"itemCount":10,"status":"INQUIRY","surface":"CATALOG","message":`Ravana Bot 😎`,"token":"AR6xBKbXZn0Xwmu76Ksyd7rnxI+Rx87HfinVlW4lwXa6JA=="}}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true})}
 // Katalog
 const reply = (teks) => {
-             res = xeon.prepareMessageFromContent(from,{ "orderMessage": { "itemCount": 111119999, "message": teks, "footerText": "*pepe*", "thumbnail": bgg, "surface": 'CATALOG' }}, {quoted:ftrol})
+             res = xeon.prepareMessageFromContent(from,{ "orderMessage": { "itemCount": 111119999, "message": teks, "footerText": "*Ravana*", "thumbnail": bgg, "surface": 'CATALOG' }}, {quoted:ftrol})
              xeon.relayWAMessage(res)
         }
 const fakewa = (teks) => {        
-xeon.sendMessage(from, teks, text, { thumbnail: fake, sendEphemeral: true, quoted: mek, contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: `pepe`,body:"",previewType:"PHOTO",thumbnail:iye,sourceUrl:`https://wa.me/917736622139?text=hello`}}})
+xeon.sendMessage(from, teks, text, { thumbnail: fake, sendEphemeral: true, quoted: mek, contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: `Ravana`,body:"",previewType:"PHOTO",thumbnail:iye,sourceUrl:`https://wa.me/94766816809?text=hello`}}})
 		}
 const replyfakelink = (teks) => {
 xeon.sendMessage(from, teks, text,{contextInfo :{text: 'hi',
@@ -941,7 +941,7 @@ xeon.sendMessage(from, teks, text,{contextInfo :{text: 'hi',
 isForwarded: false,
 sendEphemeral: false,
 "externalAdReply": {
-                "title": `Whatsapp-BOT\n𝙿𝙴𝙿𝙴 𝚂𝙸𝚁😎. (@nnda.krnwn_) •Instagram photos and Videos`,
+                "title": `Whatsapp-BOT\nRavana Bot😎. (@nnda.krnwn_) •Instagram photos and Videos`,
                 "body": "",
                 "previewType": "PHOTO",
                 "thumbnailUrl": "https://i.ibb.co/y0RYgzB/FB-IMG-1635413002830.jpg",
@@ -956,12 +956,12 @@ isForwarded: false,
 sendEphemeral: false,
 "externalAdReply": {
                 "title": `Whatsapp`,
-                "body": `wa.me/917736622139`,
+                "body": `wa.me/94766816809`,
                 "mediaType": "10",
-                "mediaUrl": `wa.me/917736622139`,
+                "mediaUrl": `wa.me/94766816809`,
                 "thumbnailUrl": "https://i.ibb.co/y0RYgzB/FB-IMG-1635413002830.jpg",
                 "thumbnail": iye,
-                "sourceUrl": `wa.me/917736622139`,
+                "sourceUrl": `wa.me/94766816809`,
 },mentionedJid:[sender]}, quoted : mek})
 };
 const fakeyt = (teks) => {
@@ -974,7 +974,7 @@ sendEphemeral: false,
 "body": `${ucapanWaktu}`,
 "mediaType": "2",
 "thumbnailUrl": "https://i.ibb.co/y0RYgzB/FB-IMG-1635413002830.jpg",
-"mediaUrl": "https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A",
+"mediaUrl": "https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3",
 "thumbnail": fs.readFileSync('./stik/thumb.jpeg'),
 "sourceUrl": "",
 },mentionedJid:[sender]}, quoted : fgif})
@@ -1133,7 +1133,7 @@ async function sendFileFromUrl(from, url, caption, msg, men) {
         let vote = JSON.parse(fs.readFileSync(`./lib/${from}.json`));
         let _votes = JSON.parse(fs.readFileSync(`./lib/vote/${from}.json`));
         let fil = vote.map((v) => v.participant);
-        let id_vote = sender ? sender : "917736622139@s.whatsapp.net";
+        let id_vote = sender ? sender : "94766816809@s.whatsapp.net";
         if (fil.includes(id_vote)) {
           return mentions(
             "@" + sender.split("@")[0] + " You have voted",
@@ -1165,7 +1165,7 @@ async function sendFileFromUrl(from, url, caption, msg, men) {
         const vote = JSON.parse(fs.readFileSync(`./lib/${from}.json`));
         let _votes = JSON.parse(fs.readFileSync(`./lib/vote/${from}.json`));
         let fil = vote.map((v) => v.participant);
-        let id_vote = sender ? sender : "917736622139@s.whatsapp.net";
+        let id_vote = sender ? sender : "94766816809@s.whatsapp.net";
         if (fil.includes(id_vote)) {
           return mentions(
             "@" + sender.split("@")[0] + " You have voted",
@@ -1302,18 +1302,18 @@ const serialUser = createSerial(18)
 	        fs.writeFileSync('./database/user/registered.json', JSON.stringify(_registered))
 	        addRegisteredUser(sender, serialUser)
 	         const anuu = `「 *USER REGISTRATION* 」
-*Thank you for registering in the 𝙿𝙴𝙿𝙴 𝚂𝙸𝚁😎 Database*
+*Thank you for registering in the Ravana Bot😎 Database*
 
 ▢ *ɴᴀᴍᴇ :* ${pushname}
 ▢ *ᴀᴘɪ :* +${sender.split('@')[0]}
 ▢ *sᴇʀɪᴀʟ :* ${serialUser}
 ▢ *ᴛᴏᴛᴀʟ :* ${_registered.length} User
 
-*「 𝙿𝙴𝙿𝙴 𝚂𝙸𝚁 」*`
+*「 Ravana Bot 」*`
          haitod = await getBuffer(`http://hadi-api.herokuapp.com/api/card/verify?nama=${encodeURI(pushname)}&member=${_registered.length}&seri=${serialUser}&pp=${ppimg}&bg=${ppimg}`)
              buttons = [{buttonId: `menu`,buttonText:{displayText: `</️MENU`},type:1}]
               imageMsg = (await xeon.prepareMessageMedia(haitod, "imageMessage", { thumbnail: haitod, })).imageMessage
-              buttonsMessage = {footerText:'ᴘᴇᴘᴇ', imageMessage: imageMsg,
+              buttonsMessage = {footerText:'Ravana Bot', imageMessage: imageMsg,
               contentText:`${anuu}`,buttons,headerType:4}
               prep = await xeon.prepareMessageFromContent(from,{buttonsMessage},{quoted: fkontak})
               xeon.relayWAMessage(prep)
@@ -1321,7 +1321,7 @@ const serialUser = createSerial(18)
 	    // console.log(e)
             setTimeout( () => {
 			xeon.updatePresence(from, Presence.composing)
-			reply(`*Thank you for being registered 𝙿𝙴𝙿𝙴 𝚂𝙸𝚁*`)
+			reply(`*Thank you for being registered Ravana Bot*`)
 		}, 2000)
         break
       
@@ -1349,7 +1349,7 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
 
                buttonsMessage = {
                contentText: `${txtt}`,
-               footerText: `𝙿𝙴𝙿𝙴 𝚂𝙸𝚁`, imageMessage: imageMsg,
+               footerText: `Ravana Bot`, imageMessage: imageMsg,
                buttons: buttons,
                headerType: 4
 }
@@ -1359,7 +1359,7 @@ prep = await xeon.prepareMessageFromContent(from,{buttonsMessage},{quoted: fkont
                break
 
         case 'allmenu':
-        case 'pepe':
+        case 'Ravana':
 groups = xeon.chats.array.filter(v => v.jid.endsWith('g.us'))
               privat = xeon.chats.array.filter(v => v.jid.endsWith('s.whatsapp.net'))
               ram2 = `${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB`
@@ -1370,8 +1370,8 @@ groups = xeon.chats.array.filter(v => v.jid.endsWith('g.us'))
               latensie = speed() - timestampe
               total = math(`${groups.length}*${privat.length}`)
 if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: fkontak})
-        ptod = "917736622139@s.whatsapp.net"
-        dtod = '917736622139'
+        ptod = "94766816809@s.whatsapp.net"
+        dtod = '94766816809'
         stod = `${sender}`
         uwuu = '```'
         yoii = '*'
@@ -1639,8 +1639,8 @@ groups = xeon.chats.array.filter(v => v.jid.endsWith('g.us'))
               latensie = speed() - timestampe
               total = math(`${groups.length}*${privat.length}`)
 if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: fkontak})
-        ptod = "917736622139@s.whatsapp.net"
-        dtod = '917736622139'
+        ptod = "94766816809@s.whatsapp.net"
+        dtod = '94766816809'
         stod = `${sender}`
         uwuu = '```'
         yoii = '*'
@@ -1649,15 +1649,15 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
 			num = await fetchJson(`https://api.telnyx.com/anonymous/v2/number_lookup/${senderNumber}`, {method: 'get'})
        menu = `
 ╭──────────────────╮
-      ✪ɪͥᴛͭsᷤᴍͫᴇͤ☚⃟ᎮᏋᎮᏋ ՏIᖇ
+      ✪ɪͥᴛͭsᷤᴍͫᴇͤ☚⃟Ravana Bot
 ╭──────────────────╯
 │
 │   ʜᴇʏ ᴜsᴇʀ @${sender.split("@")[0]} 
 │      ɪᴍ sᴛɪʟʟ ᴀʟɪᴠᴇ ʙʀᴏ😁
 │      
 │
-│  ▢ *ᴅᴇᴠᴇʟᴏʟᴇʀ* : ᴘᴇᴘᴇ sɪʀ
-│  ▢ *ᴏᴡɴᴇʀ* :  ᴘᴇᴘᴇ sɪʀ
+│  ▢ *ᴅᴇᴠᴇʟᴏʟᴇʀ* : Ravana Bot
+│  ▢ *ᴏᴡɴᴇʀ* :  Ravana Bot
 │  ▢ *ᴠᴇʀsɪᴏɴ* : 1.0
 │  ▢ *ᴍᴏᴅᴇ* : ᴘᴜʙʟɪᴄ
 │  ▢ *ᴘʀᴇғɪx* : [# .]
@@ -1670,10 +1670,10 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
 │
 │      ▎▍▌▌▉▏▎▌▉▐▏▌▎
 │      ▎▍▌▌▉▏▎▌▉▐▏▌▎
-│        ©917736622139
+│        ©94766816809
 │
 │  ❑ *ɢɪᴛʜᴜʙ ʟɪɴᴋ* :
-│  https://github.com/pepesir/PEPE-SIR
+│  https://github.com/RavanaBot/RAVANA-BOT
 │  
 │  ❑ *ʏᴏᴜᴛᴜʙᴇ ʟɪɴᴋ* :
 │  https://tinyurl.com/yhbgcc33
@@ -1685,23 +1685,23 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
 │  https://tinyurl.com/yf66lpbm
 │
 ╰──────────────────╯
-​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
+
 
 `
-sendButLocation(from, `${menu}`,`𝚊𝚗𝚢 𝚍𝚘𝚞𝚋𝚝𝚜 , 𝚌𝚘𝚗𝚝𝚊𝚌𝚝 𝚘𝚠𝚗𝚎𝚛🌝💞 \n        ❏ 𝑐𝑜𝑑𝑒𝑑 𝑏𝑦 𝑝𝑒𝑝𝑒 𝑠𝑖𝑟 ❏ \n\n ʙᴏᴛ ʙʏ @${dtod.split("@")[0]}`, {jpegThumbnail:iye}, [{buttonId:`command`,buttonText:{displayText:'LIST MENU'},type:1},{buttonId:`credit`,buttonText:{displayText:'THANKS TO'},type:1},{buttonId:`script`,buttonText:{displayText:'SCRIPT'},type:1}], {contextInfo: { mentionedJid: [ptod,stod]}})
+sendButLocation(from, `${menu}`,`𝚊𝚗𝚢 𝚍𝚘𝚞𝚋𝚝𝚜 , 𝚌𝚘𝚗𝚝𝚊𝚌𝚝 𝚘𝚠𝚗𝚎𝚛🌝💞 \n        ❏ 𝑐𝑜𝑑𝑒𝑑 𝑏𝑦 Ravana Bot❏ \n\n ʙᴏᴛ ʙʏ @${dtod.split("@")[0]}`, {jpegThumbnail:iye}, [{buttonId:`command`,buttonText:{displayText:'LIST MENU'},type:1},{buttonId:`credit`,buttonText:{displayText:'THANKS TO'},type:1},{buttonId:`script`,buttonText:{displayText:'SCRIPT'},type:1}], {contextInfo: { mentionedJid: [ptod,stod]}})
 
 break
 case 'credit':
-   dtod = '917736622139'
-   dtod1 = '917736622139'
-   dtod2 = '917736622139'
+   dtod = '94766816809'
+   dtod1 = '94766816809'
+   dtod2 = '94766816809'
    dtod3 = ''
    dtod4 ='0'
    var yez = `
 ╭───➤ 𝐀𝐃𝐌𝐈𝐍
 │✨ wa.me/${dtod.split('@')[0]}
 ╰───────────────
- © ᴄᴏᴅᴇᴅ ʙʏ ᴘᴇᴘᴇ sɪʀ
+ © ᴄᴏᴅᴇᴅ ʙʏ Ravana Bot
  `
      credit = xeon.prepareMessageFromContent(from,{ "orderMessage": { "itemCount": 1000, "message": `${yez}`, "footerText": "hehe", "thumbnail": iye, "surface": 'CATALOG'}}, {quoted: mek})
             xeon.relayWAMessage(credit)
@@ -1744,7 +1744,7 @@ case 'bugreport':
               if (args.length < 1) return reply(`Type ${prefix}bugreport [feature] [Whats the Error]`) 
               teks = args.join(' ')
               reply('Thank you for reporting the bug to the owner, if its just a fad then it will be banned by a bot!')
-              xeon.sendMessage('917736622139@s.whatsapp.net',`*Bug Report:* ${teks}`, text)
+              xeon.sendMessage('94766816809@s.whatsapp.net',`*Bug Report:* ${teks}`, text)
               
               break
 case 'restart':
@@ -1870,7 +1870,7 @@ menu = `
 
 4. 𝙰𝙽𝚈 𝙿𝚁𝙾𝙱𝙻𝙰𝙼 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙾𝚄𝚁 𝙾𝚆𝙽𝙴𝚁
 `
-sendButMessage(from, menu, `𝙿𝙴𝙿𝙴 𝚂𝙸𝚁`, [
+sendButMessage(from, menu, `Ravana Bot`, [
           {
             buttonId: `command`,
             buttonText: {
@@ -2014,7 +2014,7 @@ xeon.toggleDisappearingMessages(from, 0)
                            case 'bucinstick':
                 case 'bucinsticker':{
          
-                    var ano = await fetchText('https://raw.githubusercontent.com/rashidsiregar28/data/main/bucin')
+                    var ano = await fetchText('https://raw.githubusercontent.com/rashidBotegar28/data/main/bucin')
                     var wifegerak = ano.split('\n')
                     var wifegerakx = wifegerak[Math.floor(Math.random() * wifegerak.length)]
                     var isGif = wifegerakx.endsWith('.gif') ? true : false
@@ -2088,7 +2088,7 @@ let ini_list = []
 for (let i of nomorowner1) {
 const vname = xeon.contacts[i] != undefined ? xeon.contacts[i].vname || xeon.contacts[i].notify : undefined
 ini_list.push({
-"displayName": 'Pepe',
+"displayName": 'Ravana',
 "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:${vname ? `${vname}` : `${xeon.user.name}`}\nitem1.TEL;waid=${i.split('@')[0]}:${i.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`
 })
 }
@@ -2102,11 +2102,11 @@ case 'command':
 if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: fkontak})
  listMsg = {
  buttonText: '𝗟𝗜𝗦𝗧 𝗠𝗘𝗡𝗨',
- footerText: '𝙿𝙴𝙿𝙴 𝚂𝙸𝚁',
+ footerText: 'Ravana Bot',
  description: `Hi @${sender.split('@')[0]}, Please select the menu here`,
  sections: [
                      {
-                      "title": `ᴘᴇᴘᴇ`,
+                      "title": `Ravana Bot`,
  rows: [
                           {
                               "title": "Script",
@@ -2170,11 +2170,11 @@ case 'group':
 if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: fkontak})
  listMsgg = {
  buttonText: 'CLICK HERE',
- footerText: '𝙿𝙴𝙿𝙴 𝚂𝙸𝚁',
+ footerText: 'Ravana Bot',
  description: `OPEN OR CLOSE GROUP`,
  sections: [
                      {
-                      "title": `ᴘᴇᴘᴇ`,
+                      "title": `Ravana Bot`,
  rows: [
                           {
                               "title": "opengroup",
@@ -2206,7 +2206,7 @@ menu = `︎𝘋𝘰𝘸𝘯𝘭𝘰𝘢𝘥𝘦𝘳 𝘔𝘦𝘯𝘶
 
 ❑${prefix}𝙩𝙬𝙞𝙩𝙩𝙚𝙧 <𝙪𝙧𝙡>
 `
-sendButMessage(from, menu, `𝙿𝙴𝙿𝙴 𝚂𝙸𝚁`, [
+sendButMessage(from, menu, `Ravana Bot`, [
           {
             buttonId: `command`,
             buttonText: {
@@ -2257,7 +2257,7 @@ menu = `𝘎𝘳𝘰𝘶𝘱 𝘔𝘦𝘯𝘶︎︎
 
 ❑${prefix}kickarea
 `
-sendButMessage(from, menu, ` 𝙿𝙴𝙿𝙴 𝚂𝙸𝚁`, [
+sendButMessage(from, menu, ` Ravana Bot`, [
           {
             buttonId: `command`,
             buttonText: {
@@ -2320,7 +2320,7 @@ menu = `𝘖𝘸𝘯𝘦𝘳 𝘔𝘦𝘯𝘶
 
 ❑${prefix}colongsw [reply sw]
 `
-sendButMessage(from, menu, `𝙿𝙴𝙿𝙴 𝚂𝙸𝚁`, [
+sendButMessage(from, menu, `Ravana Bot`, [
           {
             buttonId: `command`,
             buttonText: {
@@ -2343,7 +2343,7 @@ menu = `シ︎𝘜𝘱𝘴𝘸 𝘔𝘦𝘯𝘶シ︎
 
 ❑${prefix}upswlocation
 `
-sendButMessage(from, menu, ` 𝙿𝙴𝙿𝙴 𝚂𝙸𝚁`, [
+sendButMessage(from, menu, ` Ravana Bot`, [
           {
             buttonId: `command`,
             buttonText: {
@@ -2432,7 +2432,7 @@ menu = `𝘖𝘵𝘩𝘦𝘳 𝘔𝘦𝘯𝘶
 
 ❑${prefix}playstore <query>
 `
-sendButMessage(from, menu, ` 𝙿𝙴𝙿𝙴 𝚂𝙸𝚁`, [
+sendButMessage(from, menu, ` Ravana Bot`, [
           {
             buttonId: `command`,
             buttonText: {
@@ -2483,7 +2483,7 @@ menu = `𝘔𝘢𝘬𝘦𝘳 𝘔𝘦𝘯𝘶
 
 ❑${prefix}waifu
 `
-sendButMessage(from, menu, ` 𝙿𝙴𝙿𝙴 𝚂𝙸𝚁`, [
+sendButMessage(from, menu, ` Ravana Bot`, [
           {
             buttonId: `command`,
             buttonText: {
@@ -2522,7 +2522,7 @@ case 'catalog':
         },
         "businessOwnerJid": sender
       },
-      "footerText": " 𝙿𝙴𝙿𝙴 𝚂𝙸𝚁"
+      "footerText": " Ravana Bot"
     }
   }, {quoted: freply})
   xeon.relayWAMessage(list, {waitForAck: true})
@@ -2549,7 +2549,7 @@ case 'git':
 case 'script':
 		case 'sc':
 		case 'sourcecode':
-		xeon.sendMessage(from, { text: "╭─➤ *ᴘᴇᴘᴇ sɪʀ*\n│       ❑  *sᴄʀɪᴘᴛ*\n│❖   ɢɪᴛʜᴜʙ:\n│❖   https://github.com/pepesir/PEPE-SIR\n│❖   ʏᴏᴜᴛᴜʙᴇ:\n│❖   https://youtube.com/channel/UCVJ9029PQ-gJBtFQZZ3AJuA\n│❖   ᴡᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ:\n╰────────────────❋ཻུ۪۪⸙\n\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘\n             ᴘᴇᴘᴇ sɪʀ\n\n╭◪ *ᴄᴏᴅᴅᴇᴅ ʙʏ ᴘᴇᴘᴇ*\n╰─────────────────❋ཻུ۪۪⸙", matchedText: 'nopee', description: "", title: "What are you doing?", jpegThumbnail: iye }, 'extendedTextMessage', { detectLinks: false, contextInfo: { forwardingScore: 508, isForwarded: true}, quoted: finv})
+		xeon.sendMessage(from, { text: "╭─➤ *Ravana Bot*\n│       ❑  *sᴄʀɪᴘᴛ*\n│❖   ɢɪᴛʜᴜʙ:\n│❖   https://github.com/RavanaBot/RAVANA-BOT\n│❖   ʏᴏᴜᴛᴜʙᴇ:\n│❖   https://youtube.com/channel/UCVJ9029PQ-gJBtFQZZ3AJuA\n│❖   ᴡᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ:\n╰────────────────❋ཻུ۪۪⸙\n\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘\n             Ravana Bot\n\n╭◪ *ᴄᴏᴅᴅᴇᴅ ʙʏ Ravana Bot*\n╰─────────────────❋ཻུ۪۪⸙", matchedText: 'nopee', description: "", title: "What are you doing?", jpegThumbnail: iye }, 'extendedTextMessage', { detectLinks: false, contextInfo: { forwardingScore: 508, isForwarded: true}, quoted: finv})
 		break
       //------------------< Sticker Cmd >-------------------
       case "addcmd":
@@ -2666,7 +2666,7 @@ if (!isOwner && !mek.key.fromMe) return reply('Only owner can use this feature')
         }
         mentions(teksnyee, cemde, true);
         break;
-        // banchat fixed by pepe
+        // banchat fixed by Ravana
 case 'banchat':
 if (!isGroup) return reply('this feature is only for groups')
 if (!itsMe && !isOwner && !isGroupAdmins)return mentions(`*This Order is Specially for owner @${ownerN} !*`, [`${ownerN}@s.whatsapp.net`], true)
@@ -2736,9 +2736,9 @@ listt += '-  ' + ress.hero[i] + '\n'
 reply(listt)
 })
 break
-//fun features by pepe
+//fun features by Ravana
                 case 'uglycheck':
-					// source code by pepe⛔
+					// source code by Ravana⛔
 if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: fkontak})
                   sange = body.slice(1)
 					const sang =['1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','23','24','25','26','27','28','29','30','31','32','33','34','35','36','37','38','39','40','41','42','43','44','45','46','47','48','49','50','51','52','53','54','55','56','57','58','59','60','61','62','63','64','65','66','67','68','69','70','71','72','73','74','75','76','77','78','79','80','81','82','83','84','85','86','87','88','89','90','91','92','93','94','95','96','97','98','99','100']
@@ -2746,7 +2746,7 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
 					xeon.sendMessage(from, 'Question : *'+sange+'*\n\nAnswer: '+ nge+'%', text, { quoted: mek })
 					break
                 case 'gaycheck':
-					// source code by pepe⛔
+					// source code by Ravana⛔
 if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: fkontak})
                   gayy = body.slice(1)
 					const gay =['1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','23','24','25','26','27','28','29','30','31','32','33','34','35','36','37','38','39','40','41','42','43','44','45','46','47','48','49','50','51','52','53','54','55','56','57','58','59','60','61','62','63','64','65','66','67','68','69','70','71','72','73','74','75','76','77','78','79','80','81','82','83','84','85','86','87','88','89','90','91','92','93','94','95','96','97','98','99','100']
@@ -2754,15 +2754,15 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
 					xeon.sendMessage(from, 'Question : *'+gayy+'*\n\nAnswer : '+ yag+'%', text, { quoted: mek })
 					break
                 case 'lesbicheck':
-					// source code by pepe⛔
+					// source code by Ravana⛔
 if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: fkontak})
                   lesbii = body.slice(1)
-					const lesbi =['1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','23','24','25','26','27','28','29','30','31','32','33','34','35','36','37','38','39','40','41','42','43','44','45','46','47','48','49','50','51','52','53','54','55','56','57','58','59','60','61','62','63','64','65','66','67','68','69','70','71','72','73','74','75','76','77','78','79','80','81','82','83','84','85','86','87','88','89','90','91','92','93','94','95','96','97','98','99','100']
+					const lesbi =['1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','23','24','25','26','27','28','29','30','31','32','33','34','35','36','37','38','39','40','41','42','43','44','45','46','47','48','49','50','51','52','53','54','55','56','57','58','59','60','61','62','63','64','65','66','67','68','69','70','71','72','73','74','75','76','77','78','79','80','81','82','83','84','85','86','87','88','89','90','91','92','93','94','95','96','97','98','99','100'] 
 					const bi = lesbi[Math.floor(Math.random() * lesbi.length)]
 					xeon.sendMessage(from, 'Question : *'+lesbii+'*\n\nAnswer : '+ bi+'%', text, { quoted: mek })
 					break
                 case 'handsomecheck':
-					// source code by pepe⛔
+					// source code by Ravana⛔
 if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: fkontak})
 ganteng = body.slice(1)
 					const gan =['1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','23','24','25','26','27','28','29','30','31','32','33','34','35','36','37','38','39','40','41','42','43','44','45','46','47','48','49','50','51','52','53','54','55','56','57','58','59','60','61','62','63','64','65','66','67','68','69','70','71','72','73','74','75','76','77','78','79','80','81','82','83','84','85','86','87','88','89','90','91','92','93','94','95','96','97','98','99','100']
@@ -2770,7 +2770,7 @@ ganteng = body.slice(1)
 					xeon.sendMessage(from, 'Question : *'+ganteng+'*\n\nAnswer : '+ teng+'%', text, { quoted: mek })
 					break
 		case 'beautycheck':
-					// source code by pepe⛔
+					// source code by Ravana⛔
 if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: fkontak})
 cantik = body.slice(1)
 					const can =['1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','23','24','25','26','27','28','29','30','31','32','33','34','35','36','37','38','39','40','41','42','43','44','45','46','47','48','49','50','51','52','53','54','55','56','57','58','59','60','61','62','63','64','65','66','67','68','69','70','71','72','73','74','75','76','77','78','79','80','81','82','83','84','85','86','87','88','89','90','91','92','93','94','95','96','97','98','99','100']
@@ -2778,7 +2778,7 @@ cantik = body.slice(1)
 					xeon.sendMessage(from, 'Question : *'+cantik+'*\n\nAnswer : '+ tik+'%', text, { quoted: mek })
 					break
 		case 'character':
-					// source code by pepe⛔
+					// source code by Ravana⛔
 if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: fkontak})
 watak = body.slice(1)
 					const wa =['Compassionate','Generous','Grumpy','Forgiving','Obedient','Good','Simp','Kind-Hearted','patient','UwU','top, anyway','Helpful']
@@ -2828,9 +2828,9 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
 					}
 					mentions(teks, members_id, true)
 					break
-					//feature by pepe
+					//feature by Ravana
 					          case 'phcomment':
-                   if (args.length < 1) return reply(`[  ×  ] Example :\n*${prefix}${command} pepe&lol*`)
+                   if (args.length < 1) return reply(`[  ×  ] Example :\n*${prefix}${command} Ravana&lol*`)
                    var F = body.slice(10)
 				   var F1 = F.split("|")[0];
 				   var F2 = F.split("|")[1]; 
@@ -2839,28 +2839,28 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
                   xeon.sendMessage(from, anu, image, {thumbnail: Buffer.alloc(0),caption: `OK it's done\n\nhow is it?`, quoted: mek})
                    break
                            case 'wolf':
-                   if (args.length < 1) return reply(`[  ×  ] Example :\n*${prefix}${command} pepe*`)
+                   if (args.length < 1) return reply(`[  ×  ] Example :\n*${prefix}${command} Ravana*`)
                    F = body.slice(6)
                    reply(mess.wait)
                    anu = await getBuffer(`${ApiZeks}/api/wolflogo?apikey=${zeksApikey}&text1=zeeoneofc&text2=${F}`)
                    xeon.sendMessage(from, anu, image, {thumbnail: Buffer.alloc(0),caption: `OK it's done\n\nHow is it?`, quoted: mek})
                    break
          case 'tfire':  
-                   if (args.length < 1) return reply(`[  ×  ] Example :\n*${prefix}${command} pepe*`)
+                   if (args.length < 1) return reply(`[  ×  ] Example :\n*${prefix}${command} Ravana*`)
                    F = body.slice(7)
                    reply(mess.wait)
                    anu = await getBuffer(`${ApiZeks}/api/tfire?text=${F}&apikey=${zeksApikey}`)                   
                    xeon.sendMessage(from, anu, image, {thumbnail: Buffer.alloc(0),caption: `OK it's done\n\nHow is it? `, quoted: mek})
                    break             
        case 'ytgol':  
-                   if (args.length < 1) return reply(`[  ×  ] Example :\n*${prefix}${command} pepe*`)
+                   if (args.length < 1) return reply(`[  ×  ] Example :\n*${prefix}${command} Ravana*`)
                    F = body.slice(8)
                    reply(mess.wait)
                    anu = await getBuffer(`${ApiZeks}/api/gplaybutton?text=${F}&apikey=${zeksApikey}`)
                    xeon.sendMessage(from, anu, image, {thumbnail: Buffer.alloc(0),caption: `OK it's done\n\nHow is it? `, quoted: mek})
                    break
        case 'ytsilver':
-                   if (args.length < 1) return reply(`[  ×  ] Example :\n*${prefix}${command} pepe*`)
+                   if (args.length < 1) return reply(`[  ×  ] Example :\n*${prefix}${command} Ravana*`)
                    F = body.slice(10)
                    reply(mess.wait)
                    anu = await getBuffer(`${ApiZeks}/api/splaybutton?text=${F}&apikey=${zeksApikey}`)
@@ -2876,7 +2876,7 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
 					vien.push(`${nm}`)
 					fs.writeFileSync(`./sticker/${nm}.mp3`, delb)
 					fs.writeFileSync('./database/vien.json', JSON.stringify(vien))
-					xeon.sendMessage(from, `*Bgm Added*`, MessageType.text, { quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: 'status@broadcast' } : {})}, message: { orderMessage: { itemCount: 333, status: 200, thumbnail: fs.readFileSync('./xeon.jpg'), surface: 200, message: `${nm}`, orderTitle: 'pepe', sellerJid: '0@s.whatsapp.net'}}}, contextInfo: { forwardingScore: 508, isForwarded: true}})
+					xeon.sendMessage(from, `*Bgm Added*`, MessageType.text, { quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: 'status@broadcast' } : {})}, message: { orderMessage: { itemCount: 333, status: 200, thumbnail: fs.readFileSync('./xeon.jpg'), surface: 200, message: `${nm}`, orderTitle: 'Ravana', sellerJid: '0@s.whatsapp.net'}}}, contextInfo: { forwardingScore: 508, isForwarded: true}})
 					break
 	 case 'delvn':
 					try {
@@ -2901,14 +2901,14 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
 					xeon.sendMessage(from, teks.trim(), extendedText, { caption: 'teks', "contextInfo": { text: 'teks', sendEphemeral: true, "externalAdReply": { "title": `${' '}𝑷𝒆𝒑𝒆 𝑺𝒆𝒓${''}${''}`, "body": ``, "previewType": 'PHOTO', "thumbnailUrl": `${'https://i.ibb.co/vkkcm0L/034c588fd8d5.jpg'}`, "thumbnail": '', "sourceUrl": `${'https://wa.me/c/62852407507130'}`}},quoted: ftext})
 					break
        case 't3d':
-                   if (args.length < 1) return reply(`[  ×  ] Example :\n*${prefix}${command} pepe*`)
+                   if (args.length < 1) return reply(`[  ×  ] Example :\n*${prefix}${command} Ravana*`)
                    F = body.slice(5)
                    reply(mess.wait)
                    anu = await getBuffer(`${ApiZeks}/api/text3dbox?apikey=${zeksApikey}&text=${F}`)
                    xeon.sendMessage(from, anu, image, {thumbnail: Buffer.alloc(0),caption: `OK it's done\n\nHow is it? `, quoted: mek})
                    break
        case 'logoa':
-                   if (args.length < 1) return reply(`[  ×  ] Example :\n*${prefix}${command} pepe&lol*`)
+                   if (args.length < 1) return reply(`[  ×  ] Example :\n*${prefix}${command} Ravana&lol*`)
                    var F = body.slice(7)
 				   var F1 = F.split("|")[0];
 				   var F2 = F.split("|")[1]; 
@@ -2917,7 +2917,7 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
                    xeon.sendMessage(from, anu, image, {thumbnail: Buffer.alloc(0),caption: `OK it's done\n\nHow is it? `, quoted: mek})
                    break
        case 'phlogo':  
-                   if (args.length < 1) return reply(`[  ×  ] Example :\n*${prefix}${command} pepe&lol*`)
+                   if (args.length < 1) return reply(`[  ×  ] Example :\n*${prefix}${command} Ravana&lol*`)
                    var F = body.slice(9)
 				   var F1 = F.split("|")[0];
 				   var F2 = F.split("|")[1]; 
@@ -2926,7 +2926,7 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
                    xeon.sendMessage(from, anu, image, {thumbnail: Buffer.alloc(0),caption: `OK it's done\n\nHow is it? `, quoted: mek})
                    break
        case 'marvel':
-                   if (args.length < 1) return reply(`[  ×  ] Example :\n*${prefix}${command} pepe&lol*`)
+                   if (args.length < 1) return reply(`[  ×  ] Example :\n*${prefix}${command} Ravana&lol*`)
                    var F = body.slice(8)
 				   var F1 = F.split("|")[0];
 				   var F2 = F.split("|")[1]; 
@@ -2935,28 +2935,28 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
                    xeon.sendMessage(from, anu, image, {thumbnail: Buffer.alloc(0),caption: `OK it's done\n\nHow is it? `, quoted: mek})
                    break
        case 'leavest':  
-                   if (args.length < 1) return reply(`[  ×  ] Example :\n*${prefix}${command} pepe*`)
+                   if (args.length < 1) return reply(`[  ×  ] Example :\n*${prefix}${command} Ravana*`)
                    F = body.slice(9)
                    reply(mess.wait)
                    anu = await getBuffer(`${ApiZeks}/api/leavest?text=${F}&apikey=${zeksApikey}`)
                    xeon.sendMessage(from, anu, image, {thumbnail: Buffer.alloc(0),caption: `OK it's done\n\nHow is it? `, quoted: mek})
                    break                   
        case 'notewrite':
-                   if (args.length < 1) return reply(`[  ×  ] Example :\n*${prefix}${command} pepe*`)
+                   if (args.length < 1) return reply(`[  ×  ] Example :\n*${prefix}${command} Ravana*`)
                    F = body.slice(7)
                    reply(mess.wait)
                    anu = await getBuffer(`${ApiZeks}/api/nulis?text=${F}&apikey=${zeksApikey}`)
                    xeon.sendMessage(from, anu, image, {thumbnail: Buffer.alloc(0),caption: `OK it's done\n\nHow is it? `, quoted: mek})
                    break
        case 'neon2':
-                   if (args.length < 1) return reply(`[  ×  ] Example :\n*${prefix}${command} pepe*`)
+                   if (args.length < 1) return reply(`[  ×  ] Example :\n*${prefix}${command} Ravana*`)
                    F = body.slice(7)
                    reply(mess.wait)
                    anu = await getBuffer(`${ApiZeks}/api/bneon?apikey=${zeksApikey}&text=${F}`)
                    xeon.sendMessage(from, anu, image, {thumbnail: Buffer.alloc(0),caption: `OK it's done\n\nHow is it? `, quoted: mek})
                    break                   
        case 'wall':
-                   if (args.length < 1) return reply(`[  ×  ] Example :\n*${prefix}${command} pepe*`)
+                   if (args.length < 1) return reply(`[  ×  ] Example :\n*${prefix}${command} Ravana*`)
                    F = body.slice(6)
                    reply(mess.wait)
                    anu = await getBuffer(`${ApiZeks}/api/breakwall?apikey=${zeksApikey}&text=${F}`)
@@ -3746,7 +3746,7 @@ case 'hacked':
                 await sleep(1000)
                 xeon.sendMessage(from, 'Succes Hacked', text, {quoted: fyt})
 case 'mygithub':
-  reply('╭─➤ *ᴘᴇᴘᴇ sɪʀ*\n│       ❑  *sᴄʀɪᴘᴛ*\n│❖   ɢɪᴛʜᴜʙ:\n│❖   https://github.com/pepesir/PEPE-SIR\n│❖   ʏᴏᴜᴛᴜʙᴇ:\n│❖   https://youtube.com/channel/UCVJ9029PQ-gJBtFQZZ3AJuA\n╰────────────────❋ཻུ۪۪⸙\n\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘\n             ᴘᴇᴘᴇ sɪʀ\n\n╭◪ *ᴄᴏᴅᴅᴇᴅ ʙʏ ᴘᴇᴘᴇ*\n╰─────────────────❋ཻུ۪۪⸙')
+  reply('╭─➤ *Ravana Bot*\n│       ❑  *sᴄʀɪᴘᴛ*\n│❖   ɢɪᴛʜᴜʙ:\n│❖   https://github.com/RavanaBot/RAVANA-BOT\n│❖   ʏᴏᴜᴛᴜʙᴇ:\n│❖   https://youtube.com/channel/UCVJ9029PQ-gJBtFQZZ3AJuA\n╰────────────────❋ཻུ۪۪⸙\n\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘\n             Ravana Bot\n\n╭◪ *ᴄᴏᴅᴅᴇᴅ ʙʏ Ravana Bot*\n╰─────────────────❋ཻུ۪۪⸙')
 					break;
    case 'ss':
       reply(mess.wait)
@@ -4021,7 +4021,7 @@ case 'debug2':
       {
         "urlButton": {
           "displayText": `Script ${fakeyoi}`,
-          "url": "╭─➤ *ᴘᴇᴘᴇ sɪʀ*\n│       ❑  *sᴄʀɪᴘᴛ*\n│❖   ɢɪᴛʜᴜʙ:\n│❖   https://github.com/pepesir/PEPE-SIR\n│❖   ʏᴏᴜᴛᴜʙᴇ:\n│❖   https://youtube.com/channel/UCVJ9029PQ-gJBtFQZZ3AJuA\n╰────────────────❋ཻུ۪۪⸙\n\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘\n             ᴘᴇᴘᴇ sɪʀ\n\n╭◪ *ᴄᴏᴅᴅᴇᴅ ʙʏ ᴘᴇᴘᴇ*\n╰─────────────────❋ཻུ۪۪⸙"
+          "url": "╭─➤ *Ravana Bot*\n│       ❑  *sᴄʀɪᴘᴛ*\n│❖   ɢɪᴛʜᴜʙ:\n│❖   https://github.com/RavanaBot/RAVANA-BOT\n│❖   ʏᴏᴜᴛᴜʙᴇ:\n│❖   https://youtube.com/channel/UCVJ9029PQ-gJBtFQZZ3AJuA\n╰────────────────❋ཻུ۪۪⸙\n\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘\n             Ravana Bot\n\n╭◪ *ᴄᴏᴅᴅᴇᴅ ʙʏ Ravana Bot*\n╰─────────────────❋ཻུ۪۪⸙"
         },
         "index": 0
       }
@@ -4053,7 +4053,7 @@ break
           },
         ]);
         break;
-case "intake": // by pepe
+case "intake": // by Ravana
         sendButMessage(from, `Hi ${pushname}`, `Please select your intake✨`, [
           {
             buttonId: `+91`,
@@ -4078,7 +4078,7 @@ case "intake": // by pepe
           },
         ]);
         break;
-case "intake2": // by pepe
+case "intake2": // by Ravana
         sendButMessage(from, `Hi ${pushname}`, `Please select the intake V.2✨`, [
           {
             buttonId: `santuy`,
@@ -4103,7 +4103,7 @@ case "intake2": // by pepe
           },
         ]);
         break;
-case "intake3": // by pepe
+case "intake3": // by Ravana
         sendButMessage(from, `Hi ${pushname}`, `Please select the intake V.3✨`, [
           {
             buttonId: `rikagusriani`,
@@ -4333,7 +4333,7 @@ case 'setprefix':
             ini_buf = await getBuffer(`https://xeon.herokuapp.com/api/maker/nulis?apikey=${valkey}&text=${teks}`)  
 buttons = [{buttonId: `writelist`,buttonText:{displayText: `Write List🔖`},type:1}]
               imageMsg = (await xeon.prepareMessageMedia(ini_buf, "imageMessage", { thumbnail: ini_buf, })).imageMessage
-              buttonsMessage = {footerText:'𝙿𝙴𝙿𝙴 𝚂𝙸𝚁', imageMessage: imageMsg,
+              buttonsMessage = {footerText:'Ravana Bot', imageMessage: imageMsg,
               contentText:`ɴᴏᴛᴇ: ʜᴏʀɴʏ = ʙᴏɴᴋs`,buttons,headerType:4}
               prep = await xeon.prepareMessageFromContent(from,{buttonsMessage},{quoted: ftrol})
               xeon.relayWAMessage(prep)
@@ -4344,7 +4344,7 @@ buttons = [{buttonId: `writelist`,buttonText:{displayText: `Write List🔖`},typ
                 if (args.length < 1) return reply(`where is the text bro??\nexample ${prefix + command} ${pushname}`)
                 dpuhy = args.join(' ')
                tiyo = `Please choose one`
-sendButMessage(from, tiyo, `𝙿𝙴𝙿𝙴 𝚂𝙸𝚁`, [
+sendButMessage(from, tiyo, `Ravana Bot`, [
             {              
               buttonId: `writedown ${dpuhy}`,
               buttonText: {
@@ -4371,14 +4371,14 @@ sendButMessage(from, tiyo, `𝙿𝙴𝙿𝙴 𝚂𝙸𝚁`, [
              const encmedia = isQuotedImage ? JSON.parse(JSON.stringify(mek).replace('quotedM','m')).message.extendedTextMessage.contextInfo : mek
              bc = await xeon.downloadMediaMessage(encmedia)
              for (let _ of anu) {
-             xeon.sendMessage(_.jid, bc, image, {quoted:fkontak,caption: `*「 𝙿𝙴𝙿𝙴 𝚂𝙸𝚁 BROADCASTING 」*\n\n${body.slice(4)}`})
+             xeon.sendMessage(_.jid, bc, image, {quoted:fkontak,caption: `*「 Ravana Bot BROADCASTING 」*\n\n${body.slice(4)}`})
 }
              reply('Broadcast success')
              } else {
              for (let _ of anu) {
 xeon.sendMessage(_.jid, 
 			{"contentText": `*「 BROADCAST 」*\n\n${body.slice(4)}`,
-			"footerText": '𝙿𝙴𝙿𝙴 𝚂𝙸𝚁',
+			"footerText": 'Ravana Bot',
 			"buttons": [
 			{"buttonId": `${prefix}allmenu`,
 			"buttonText": {"displayText": "CLICK TO VIEW MENU"
@@ -4397,7 +4397,7 @@ reply(mess.wait)
 kon = await getBuffer(`https://hardianto-chan.herokuapp.com/api/anime/random?nsfw=yuri&apikey=${hardi}`)
 buttons = [{buttonId: `yuri`,buttonText:{displayText: `➡️Next`},type:1}]
               imageMsg = (await xeon.prepareMessageMedia(kon, "imageMessage", { thumbnail: kon, })).imageMessage
-              buttonsMessage = {footerText:'𝙿𝙴𝙿𝙴 𝚂𝙸𝚁', imageMessage: imageMsg,
+              buttonsMessage = {footerText:'Ravana Bot', imageMessage: imageMsg,
               contentText:`ɴᴏᴛᴇ: ʜᴏʀɴʏ = ʙᴏɴᴋs`,buttons,headerType:4}
               prep = await xeon.prepareMessageFromContent(from,{buttonsMessage},{quoted: ftrol})
               xeon.relayWAMessage(prep)
@@ -4409,7 +4409,7 @@ reply(mess.wait)
 aku = await getBuffer(`https://hardianto-chan.herokuapp.com/api/anime/random?nsfw=anal&apikey=${hardi}`)
 buttons = [{buttonId: `anal`,buttonText:{displayText: `➡️Next`},type:1}]
               imageMsg = (await xeon.prepareMessageMedia(aku, "imageMessage", { thumbnail: aku, })).imageMessage
-              buttonsMessage = {footerText:'𝙿𝙴𝙿𝙴 𝚂𝙸𝚁', imageMessage: imageMsg,
+              buttonsMessage = {footerText:'Ravana Bot', imageMessage: imageMsg,
               contentText:`ɴᴏᴛᴇ: ʜᴏʀɴʏ = ʙᴏɴᴋs`,buttons,headerType:4}
               prep = await xeon.prepareMessageFromContent(from,{buttonsMessage},{quoted: ftrol})
               xeon.relayWAMessage(prep)
@@ -4421,7 +4421,7 @@ reply(mess.wait)
 kau = await getBuffer(`https://hardianto-chan.herokuapp.com/api/anime/random?nsfw=lesbian&apikey=${hardi}`)
 buttons = [{buttonId: `lesbian`,buttonText:{displayText: `➡️Next`},type:1}]
               imageMsg = (await xeon.prepareMessageMedia(kau, "imageMessage", { thumbnail: kau, })).imageMessage
-              buttonsMessage = {footerText:'𝙿𝙴𝙿𝙴 𝚂𝙸𝚁', imageMessage: imageMsg,
+              buttonsMessage = {footerText:'Ravana Bot', imageMessage: imageMsg,
               contentText:`ɴᴏᴛᴇ: ʜᴏʀɴʏ = ʙᴏɴᴋs`,buttons,headerType:4}
               prep = await xeon.prepareMessageFromContent(from,{buttonsMessage},{quoted: ftrol})
               xeon.relayWAMessage(prep)
@@ -4433,7 +4433,7 @@ reply(mess.wait)
 hai = await getBuffer(`https://hardianto-chan.herokuapp.com/api/anime/random?nsfw=eroNeko&apikey=${hardi}`)
 buttons = [{buttonId: `eroneko`,buttonText:{displayText: `➡️Next`},type:1}]
               imageMsg = (await xeon.prepareMessageMedia(hai, "imageMessage", { thumbnail: hai, })).imageMessage
-              buttonsMessage = {footerText:'𝙿𝙴𝙿𝙴 𝚂𝙸𝚁', imageMessage: imageMsg,
+              buttonsMessage = {footerText:'Ravana Bot', imageMessage: imageMsg,
               contentText:`ɴᴏᴛᴇ: ʜᴏʀɴʏ = ʙᴏɴᴋs`,buttons,headerType:4}
               prep = await xeon.prepareMessageFromContent(from,{buttonsMessage},{quoted: ftrol})
               xeon.relayWAMessage(prep)
@@ -4445,7 +4445,7 @@ reply(mess.wait)
 yoiz = await getBuffer(`https://hardianto-chan.herokuapp.com/api/anime/random?nsfw=bJ&apikey=${hardi}`)
 buttons = [{buttonId: `bj`,buttonText:{displayText: `➡️Next`},type:1}]
               imageMsg = (await xeon.prepareMessageMedia(yoiz, "imageMessage", { thumbnail: yoiz, })).imageMessage
-              buttonsMessage = {footerText:'𝙿𝙴𝙿𝙴 𝚂𝙸𝚁', imageMessage: imageMsg,
+              buttonsMessage = {footerText:'Ravana Bot', imageMessage: imageMsg,
               contentText:`ɴᴏᴛᴇ: ʜᴏʀɴʏ = ʙᴏɴᴋs`,buttons,headerType:4}
               prep = await xeon.prepareMessageFromContent(from,{buttonsMessage},{quoted: ftrol})
               xeon.relayWAMessage(prep)
@@ -4457,7 +4457,7 @@ reply(mess.wait)
 hai = await getBuffer(`https://hardianto-chan.herokuapp.com/api/anime/random?nsfw=kitsune&apikey=${hardi}`)
 buttons = [{buttonId: `kitsune`,buttonText:{displayText: `➡️Next`},type:1}]
               imageMsg = (await xeon.prepareMessageMedia(hai, "imageMessage", { thumbnail: hai, })).imageMessage
-              buttonsMessage = {footerText:'𝙿𝙴𝙿𝙴 𝚂𝙸𝚁', imageMessage: imageMsg,
+              buttonsMessage = {footerText:'Ravana Bot', imageMessage: imageMsg,
               contentText:`ɴᴏᴛᴇ: ʜᴏʀɴʏ = ʙᴏɴᴋs`,buttons,headerType:4}
               prep = await xeon.prepareMessageFromContent(from,{buttonsMessage},{quoted: fvn})
               xeon.relayWAMessage(prep)
@@ -4469,7 +4469,7 @@ reply(mess.wait)
 hai = await getBuffer(`https://hardianto-chan.herokuapp.com/api/anime/random?nsfw=pussy&apikey=${hardi}`)
 buttons = [{buttonId: `pussy`,buttonText:{displayText: `➡️Next`},type:1}]
               imageMsg = (await xeon.prepareMessageMedia(hai, "imageMessage", { thumbnail: hai, })).imageMessage
-              buttonsMessage = {footerText:'𝙿𝙴𝙿𝙴 𝚂𝙸𝚁', imageMessage: imageMsg,
+              buttonsMessage = {footerText:'Ravana Bot', imageMessage: imageMsg,
               contentText:`ɴᴏᴛᴇ: ʜᴏʀɴʏ = ʙᴏɴᴋs`,buttons,headerType:4}
               prep = await xeon.prepareMessageFromContent(from,{buttonsMessage},{quoted: fvn})
               xeon.relayWAMessage(prep)
@@ -4481,7 +4481,7 @@ reply(mess.wait)
 hai = await getBuffer(`https://hardianto-chan.herokuapp.com/api/anime/random?sfw=wallpaper&apikey=${hardi}`)
 buttons = [{buttonId: `wallpaper`,buttonText:{displayText: `➡️Next`},type:1}]
               imageMsg = (await xeon.prepareMessageMedia(hai, "imageMessage", { thumbnail: hai, })).imageMessage
-              buttonsMessage = {footerText:'𝙿𝙴𝙿𝙴 𝚂𝙸𝚁', imageMessage: imageMsg,
+              buttonsMessage = {footerText:'Ravana Bot', imageMessage: imageMsg,
               contentText:`ɴᴏᴛᴇ: ʜᴏʀɴʏ = ʙᴏɴᴋs`,buttons,headerType:4}
               prep = await xeon.prepareMessageFromContent(from,{buttonsMessage},{quoted: fvn})
               xeon.relayWAMessage(prep)
@@ -4493,7 +4493,7 @@ reply(mess.wait)
 hai = await getBuffer(`https://hardianto-chan.herokuapp.com/api/anime/random?sfw=neko&apikey=${hardi}`)
 buttons = [{buttonId: `neko2`,buttonText:{displayText: `➡️Next`},type:1}]
               imageMsg = (await xeon.prepareMessageMedia(hai, "imageMessage", { thumbnail: hai, })).imageMessage
-              buttonsMessage = {footerText:'𝙿𝙴𝙿𝙴 𝚂𝙸𝚁', imageMessage: imageMsg,
+              buttonsMessage = {footerText:'Ravana Bot', imageMessage: imageMsg,
               contentText:`ɴᴏᴛᴇ: ʜᴏʀɴʏ = ʙᴏɴᴋs`,buttons,headerType:4}
               prep = await xeon.prepareMessageFromContent(from,{buttonsMessage},{quoted: fvn})
               xeon.relayWAMessage(prep)
@@ -4505,7 +4505,7 @@ reply(mess.wait)
 hai = await getBuffer(`https://hardianto-chan.herokuapp.com/api/anime/random?sfw=baka&apikey=${hardi}`)
 buttons = [{buttonId: `baka`,buttonText:{displayText: `➡️Next`},type:1}]
               imageMsg = (await xeon.prepareMessageMedia(hai, "imageMessage", { thumbnail: hai, })).imageMessage
-              buttonsMessage = {footerText:'𝙿𝙴𝙿𝙴 𝚂𝙸𝚁', imageMessage: imageMsg,
+              buttonsMessage = {footerText:'Ravana Bot', imageMessage: imageMsg,
               contentText:`ɴᴏᴛᴇ: ʜᴏʀɴʏ = ʙᴏɴᴋs`,buttons,headerType:4}
               prep = await xeon.prepareMessageFromContent(from,{buttonsMessage},{quoted: fvn})
               xeon.relayWAMessage(prep)
@@ -4517,7 +4517,7 @@ reply(mess.wait)
 hai = await getBuffer(`https://hardianto-chan.herokuapp.com/api/anime/random?sfw=slap&apikey=${hardi}`)
 buttons = [{buttonId: `slap`,buttonText:{displayText: `➡️Next`},type:1}]
               imageMsg = (await xeon.prepareMessageMedia(hai, "imageMessage", { thumbnail: hai, })).imageMessage
-              buttonsMessage = {footerText:'𝙿𝙴𝙿𝙴 𝚂𝙸𝚁', imageMessage: imageMsg,
+              buttonsMessage = {footerText:'Ravana Bot', imageMessage: imageMsg,
               contentText:`ɴᴏᴛᴇ: ʜᴏʀɴʏ = ʙᴏɴᴋs`,buttons,headerType:4}
               prep = await xeon.prepareMessageFromContent(from,{buttonsMessage},{quoted: fvn})
               xeon.relayWAMessage(prep)
@@ -4529,7 +4529,7 @@ reply(mess.wait)
 hai = await getBuffer(`https://hardianto-chan.herokuapp.com/api/anime/random?sfw=poke&apikey=${hardi}`)
 buttons = [{buttonId: `poke`,buttonText:{displayText: `➡️Next`},type:1}]
               imageMsg = (await xeon.prepareMessageMedia(hai, "imageMessage", { thumbnail: hai, })).imageMessage
-              buttonsMessage = {footerText:'𝙿𝙴𝙿𝙴 𝚂𝙸𝚁', imageMessage: imageMsg,
+              buttonsMessage = {footerText:'Ravana Bot', imageMessage: imageMsg,
               contentText:`ɴᴏᴛᴇ: ʜᴏʀɴʏ = ʙᴏɴᴋs`,buttons,headerType:4}
               prep = await xeon.prepareMessageFromContent(from,{buttonsMessage},{quoted: fvn})
               xeon.relayWAMessage(prep)
@@ -4541,7 +4541,7 @@ reply(mess.wait)
 hai = await getBuffer(`https://hardianto-chan.herokuapp.com/api/anime/random?nsfw=keta&apikey=${hardi}`)
 buttons = [{buttonId: `keta`,buttonText:{displayText: `➡️Next`},type:1}]
               imageMsg = (await xeon.prepareMessageMedia(hai, "imageMessage", { thumbnail: hai, })).imageMessage
-              buttonsMessage = {footerText:'𝙿𝙴𝙿𝙴 𝚂𝙸𝚁', imageMessage: imageMsg,
+              buttonsMessage = {footerText:'Ravana Bot', imageMessage: imageMsg,
               contentText:`ɴᴏᴛᴇ: ʜᴏʀɴʏ = ʙᴏɴᴋs`,buttons,headerType:4}
               prep = await xeon.prepareMessageFromContent(from,{buttonsMessage},{quoted: fvn})
               xeon.relayWAMessage(prep)
@@ -4601,7 +4601,7 @@ reply(mess.wait)
 kon = await getBuffer(`https://hardianto-chan.herokuapp.com/api/nuliskiri?text=${c}&apikey=${hardi}`)
 buttons = [{buttonId: `writeleft`,buttonText:{displayText: `Write List🔖`},type:1}]
               imageMsg = (await xeon.prepareMessageMedia(kon, "imageMessage", { thumbnail: kon, })).imageMessage
-              buttonsMessage = {footerText:'𝙿𝙴𝙿𝙴 𝚂𝙸𝚁', imageMessage: imageMsg,
+              buttonsMessage = {footerText:'Ravana Bot', imageMessage: imageMsg,
               contentText:`ɴᴏᴛᴇ: ʜᴏʀɴʏ = ʙᴏɴᴋs`,buttons,headerType:4}
               prep = await xeon.prepareMessageFromContent(from,{buttonsMessage},{quoted: ftrol})
               xeon.relayWAMessage(prep)
@@ -4613,7 +4613,7 @@ reply(mess.wait)
 kon = await getBuffer(`https://hardianto-chan.herokuapp.com/api/nuliskanan?text=${c}&apikey=${hardi}`)
 buttons = [{buttonId: `writelist`,buttonText:{displayText: `Write List🔖`},type:1}]
               imageMsg = (await xeon.prepareMessageMedia(kon, "imageMessage", { thumbnail: kon, })).imageMessage
-              buttonsMessage = {footerText:'𝙿𝙴𝙿𝙴 𝚂𝙸𝚁', imageMessage: imageMsg,
+              buttonsMessage = {footerText:'Ravana Bot', imageMessage: imageMsg,
               contentText:`ɴᴏᴛᴇ: ʜᴏʀɴʏ = ʙᴏɴᴋs`,buttons,headerType:4}
               prep = await xeon.prepareMessageFromContent(from,{buttonsMessage},{quoted: ftrol})
               xeon.relayWAMessage(prep)
@@ -4625,18 +4625,18 @@ reply(mess.wait)
 kon = await getBuffer(`https://hardianto-chan.herokuapp.com/api/foliokanan?text=${c}&apikey=${hardi}`)
 buttons = [{buttonId: `writelist`,buttonText:{displayText: `Write List🔖`},type:1}]
               imageMsg = (await xeon.prepareMessageMedia(kon, "imageMessage", { thumbnail: kon, })).imageMessage
-              buttonsMessage = {footerText:'𝙿𝙴𝙿𝙴 𝚂𝙸𝚁', imageMessage: imageMsg,
+              buttonsMessage = {footerText:'Ravana Bot', imageMessage: imageMsg,
               contentText:`ɴᴏᴛᴇ: ʜᴏʀɴʏ = ʙᴏɴᴋs`,buttons,headerType:4}
               prep = await xeon.prepareMessageFromContent(from,{buttonsMessage},{quoted: ftrol})
               xeon.relayWAMessage(prep)
 break
 case 'xs':
 if (!c) return reply('Looking for what?')
-pepex = await fetchJson(`https://bx-hunter.herokuapp.com/api/xvideosearch?query=${c}&apikey=${HunterApi}`)
+Ravanax = await fetchJson(`https://bx-hunter.herokuapp.com/api/xvideosearch?query=${c}&apikey=${HunterApi}`)
 reply(mess.wait)
-pepex = pepex.result
+Ravanax = Ravanax.result
 ini_txt = ""
-for (var x of pepex) {
+for (var x of Ravanax) {
 ini_txt += `Title : ${x.title}\n`
 ini_txt += `Info : ${x.info}\n`
 ini_txt += `Link : ${x.link}\n\n\n`
@@ -4655,11 +4655,11 @@ xeon.sendMessage(from, vid, video, {quoted: mek})
 break
 case 'writelist':
   reply(`Example ${prefix}write tes
-  ▢ ${prefix}write pepe
-  ▢ ${prefix}folioright pepe
-  ▢ ${prefix}folioleft pepe
-  ▢ ${prefix}writedown pepe
-  ▢ ${prefix}writeleft pepe`)
+  ▢ ${prefix}write Ravana
+  ▢ ${prefix}folioright Ravana
+  ▢ ${prefix}folioleft Ravana
+  ▢ ${prefix}writedown Ravana
+  ▢ ${prefix}writeleft Ravana`)
   break
 case 'folioleft':
 if (!c) return reply('Where is the text bro??')
@@ -4667,7 +4667,7 @@ reply(mess.wait)
 kon = await getBuffer(`https://hardianto-chan.herokuapp.com/api/foliokiri?text=${c}&apikey=${hardi}`)
 buttons = [{buttonId: `writelist`,buttonText:{displayText: `Write List🔖`},type:1}]
               imageMsg = (await xeon.prepareMessageMedia(kon, "imageMessage", { thumbnail: kon, })).imageMessage
-              buttonsMessage = {footerText:'𝙿𝙴𝙿𝙴 𝚂𝙸𝚁', imageMessage: imageMsg,
+              buttonsMessage = {footerText:'Ravana Bot', imageMessage: imageMsg,
               contentText:`ɴᴏᴛᴇ: ʜᴏʀɴʏ = ʙᴏɴᴋs`,buttons,headerType:4}
               prep = await xeon.prepareMessageFromContent(from,{buttonsMessage},{quoted: ftrol})
               xeon.relayWAMessage(prep)
@@ -4694,7 +4694,7 @@ case 'nsfw':
 					break
 
 			case 'maker3d': 
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} pepe`)
+                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} Ravana`)
 					makell = body.slice(8)
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/maker3d?text=${makell}&apikey=${xchillds}`)
@@ -4702,7 +4702,7 @@ case 'nsfw':
 					xeon.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./xeon.jpg')})
 					break
 			case 'maker3d2': 
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} pepe`)
+                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} Ravana`)
 					makell = args.join(" ")
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/maker3d/no2?text=${makell}&apikey=${xchillds}`)
@@ -4710,7 +4710,7 @@ case 'nsfw':
 					xeon.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./xeon.jpg')})
 					break
 			case 'maker3d3': 
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} pepe`)
+                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} Ravana`)
 					makell = args.join(" ")
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/maker3d/no3?text=${makell}&apikey=${xchillds}`)
@@ -4718,7 +4718,7 @@ case 'nsfw':
 					xeon.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./xeon.jpg')})
 					break
 			case 'maker3d4': 
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} pepe`)
+                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} Ravana`)
 					makell = args.join(" ")
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/maker3d/no4?text=${makell}&apikey=${xchillds}`)
@@ -4726,7 +4726,7 @@ case 'nsfw':
 					xeon.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./xeon.jpg')})
 					break
 			case 'transformer': 
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} pepe`)
+                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} Ravana`)
 					makell = args.join(" ")
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/maker/special/transformer?text=${makell}&apikey=${xchillds}`)
@@ -4745,7 +4745,7 @@ case 'nsfw':
 					xeon.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./xeon.jpg')})
 					break
 			case 'battlefield': 
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} pepe|Doge`)
+                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} Ravana|Doge`)
 					makell = args.join(" ")
 					ll1 = makell.split("|")[0];
 					ll2 = makell.split("|")[1];
@@ -4755,7 +4755,7 @@ case 'nsfw':
 					xeon.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./xeon.jpg')})
 					break
 			case 'coffeecup': 
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} pepe`)
+                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} Ravana`)
 					makell = args.join(" ")
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/textmaker/senja?text=${makell}&theme=coffee-cup&apikey=${xchillds}`)
@@ -4763,7 +4763,7 @@ case 'nsfw':
 					xeon.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./xeon.jpg')})
 					break
 			case 'coffeecup2': 
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} pepe`)
+                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} Ravana`)
 					makell = args.join(" ")
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/textmaker/senja?text=${makell}&theme=coffee-cup2&apikey=${xchillds}`)
@@ -4771,7 +4771,7 @@ case 'nsfw':
 					xeon.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./xeon.jpg')})
 					break
 			case 'neon': 
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} pepe`)
+                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} Ravana`)
 					makell = args.join(" ")
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/textmaker/metallic?text=${makell}&theme=neon&apikey=${xchillds}`)
@@ -4779,7 +4779,7 @@ case 'nsfw':
 					xeon.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./xeon.jpg')})
 					break
               case 'glow': 
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} pepe`)
+                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} Ravana`)
 					makell = args.join(" ")
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/textmaker/metallic?text=${makell}&theme=glow&apikey=${xchillds}`)
@@ -4787,7 +4787,7 @@ case 'nsfw':
 					xeon.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./xeon.jpg')})
 					break
 			case 'summer': 
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} pepe`)
+                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} Ravana`)
 					makell = args.join(" ")
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/textmaker/alam?text=${makell}&theme=summer&apikey=${xchillds}`)
@@ -4795,7 +4795,7 @@ case 'nsfw':
 					xeon.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./xeon.jpg')})
 					break
 			case 'flower': 
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} pepe`)
+                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} Ravana`)
 					makell = args.join(" ")
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/textmaker/alam?text=${makell}&theme=flower&apikey=${xchillds}`)
@@ -4803,7 +4803,7 @@ case 'nsfw':
 					xeon.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./xeon.jpg')})
 					break
 			case 'burn': 
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} pepe`)
+                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} Ravana`)
 					makell = args.join(" ")
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/textmaker/random?text=${makell}&theme=text-burn&apikey=${xchillds}`)
@@ -4811,20 +4811,20 @@ case 'nsfw':
 					xeon.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./xeon.jpg')})
 					break
 			case 'quote': 
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} pepe`)
+                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} Ravana`)
 					makell = args.join(" ")
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/textmaker/random?text=${makell}&theme=art-quote&apikey=${xchillds}`)
 					buffer1 = await getBuffer(anu.result.url)
 buttons = [{buttonId: `quote`,buttonText:{displayText: `Thx Dah Pake`},type:1}]
               imageMsg = (await xeon.prepareMessageMedia(buffer1, "imageMessage", { thumbnail: buffer1, })).imageMessage
-              buttonsMessage = {footerText:'𝙿𝙴𝙿𝙴 𝚂𝙸𝚁', imageMessage: imageMsg,
+              buttonsMessage = {footerText:'Ravana Bot', imageMessage: imageMsg,
               contentText:`ɴᴏᴛᴇ: ʜᴏʀɴʏ = ʙᴏɴᴋs`,buttons,headerType:4}
               prep = await xeon.prepareMessageFromContent(from,{buttonsMessage},{quoted: ftrol})
               xeon.relayWAMessage(prep)
 					break
 			case 'wooden': 
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} pepe`)
+                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} Ravana`)
 					makell = args.join(" ")
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/textmaker/roses?text=${makell}&theme=wooden-boarch&apikey=${xchillds}`)
@@ -4832,7 +4832,7 @@ buttons = [{buttonId: `quote`,buttonText:{displayText: `Thx Dah Pake`},type:1}]
 					xeon.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./xeon.jpg')})
 					break
 			case 'golden': 
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} pepe`)
+                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} Ravana`)
 					makell = args.join(" ")
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/textmaker/roses?text=${makell}&theme=golden&apikey=${xchillds}`)
@@ -4952,7 +4952,7 @@ ${anime.desc}\n\n*Link Batch* : ${anime.batch}\n*Link Download SD* : ${anime.bat
         let di = await getBuffer(ac);
 buttons = [{buttonId: `pinterest`,buttonText:{displayText: `➡️Next`},type:1}]
               imageMsg = (await xeon.prepareMessageMedia(di, "imageMessage", { thumbnail: di, })).imageMessage
-              buttonsMessage = {footerText:'𝙿𝙴𝙿𝙴 𝚂𝙸𝚁', imageMessage: imageMsg,
+              buttonsMessage = {footerText:'Ravana Bot', imageMessage: imageMsg,
               contentText:`ɴᴏᴛᴇ: ʜᴏʀɴʏ = ʙᴏɴᴋs`,buttons,headerType:4}
               prep = await xeon.prepareMessageFromContent(from,{buttonsMessage},{quoted: ftrol})
               xeon.relayWAMessage(prep)
@@ -4977,7 +4977,7 @@ buttons = [{buttonId: `pinterest`,buttonText:{displayText: `➡️Next`},type:1}
         break;
       case "status":
         fakestatus(
-          `╭─➤ *𝐏𝐄𝐏𝐄 𝐒𝐈𝐑*\n│       ❑  *BOT STATUS*\n│❖  ${offline ? " ᴏɴʟɪɴᴇ" : " ᴏғғʟɪɴᴇ"}\n│❖  ${banChats ? " sᴇʟғ ᴍᴏᴅᴇ" : " ᴘᴜʙʟɪᴄ ᴍᴏᴅᴇ" }\n│❖  ${prefixStatus ? " ᴍᴜʟᴛɪ ᴘʀᴇғɪx" : " ɴᴏ ᴘʀᴇғɪx"}\n╰────────────────❋ཻུ۪۪⸙\n\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘\n             ᴘᴇᴘᴇ sɪʀ\n\n╭◪ *ᴄᴏᴅᴅᴇᴅ ʙʏ ᴘᴇᴘᴇ*\n╰─────────────────❋ཻུ۪۪⸙`
+          `╭─➤ *𝐏𝐄𝐏𝐄 𝐒𝐈𝐑*\n│       ❑  *BOT STATUS*\n│❖  ${offline ? " ᴏɴʟɪɴᴇ" : " ᴏғғʟɪɴᴇ"}\n│❖  ${banChats ? " sᴇʟғ ᴍᴏᴅᴇ" : " ᴘᴜʙʟɪᴄ ᴍᴏᴅᴇ" }\n│❖  ${prefixStatus ? " ᴍᴜʟᴛɪ ᴘʀᴇғɪx" : " ɴᴏ ᴘʀᴇғɪx"}\n╰────────────────❋ཻུ۪۪⸙\n\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘\n             Ravana Bot\n\n╭◪ *ᴄᴏᴅᴅᴇᴅ ʙʏ Ravana Bot*\n╰─────────────────❋ཻུ۪۪⸙`
         );
         break;
       case "off":
@@ -5382,7 +5382,7 @@ case 'waifu':
   reply(apa2)
   break
 case 'attp':
-              if (args.length == 0) return reply(`Example: ${prefix + command} pepe`)
+              if (args.length == 0) return reply(`Example: ${prefix + command} Ravana`)
               buffer = await getBuffer(`https://api.xteam.xyz/attp?file&text=${encodeURI(q)}`)
               xeon.sendMessage(from, buffer, sticker, { quoted: freply })
               break
@@ -5958,7 +5958,7 @@ Source : ${anu.result.source}
                     thumb,
                     `*Data Successfully Obtained!*\n\n*Title* : ${title}\n*Ext* : MP3\n*Filesize* : ${filesizeF}\n*Link* : ${a.data}\n\nFor the duration of more than the limit is presented in the link`
                   );
-                const captions = `╭──────────────────╮\n         *ʏᴛᴍᴘ3*\n╭──────────────────╯\n│ *ᴛɪᴛʟᴇ* : ${title}\n│ *ᴇxᴛ* : MP3\n╰──────────────────────────╮\n*sɪᴢᴇ* : ${filesizeF}\n╰───────────────────────────╯\n❑ Please wait for the media file to be sent it may take a few minutes\n\n ©ᴘᴇᴘᴇ`;
+                const captions = `╭──────────────────╮\n         *ʏᴛᴍᴘ3*\n╭──────────────────╯\n│ *ᴛɪᴛʟᴇ* : ${title}\n│ *ᴇxᴛ* : MP3\n╰──────────────────────────╮\n*sɪᴢᴇ* : ${filesizeF}\n╰───────────────────────────╯\n❑ Please wait for the media file to be sent it may take a few minutes\n\n ©Ravana Bot`;
                 sendMediaURL(from, thumb, captions);
                 sendMediaURL(from, dl_link).catch(() => reply(mess.error.api));
               });
@@ -6286,7 +6286,7 @@ if (_chats.startsWith('$')){
 if (!isOwner)return// reply(`This command can not be carried out by rent bot temporarily`)
 if (!q)return 
 var itsme = `${sender}`
-var split = `*Pepe Bot Inc.*`
+var split = `*Ravana Bot Inc.*`
 const term = {
 contextInfo: {
 participant: itsme,
@@ -6365,8 +6365,8 @@ xeon.sendMessage(from, stdout, text, term)
     if (isGroup && budy != undefined) {
     } else {
       console.log(
-        color("[Pepe Bot]", "red"),
-        "𝙿𝙴𝙿𝙴 𝚂𝙸𝚁",
+        color("[Ravana Bot]", "red"),
+        "Ravana Bot",
         color(sender.split("@")[0])
       );
     }
